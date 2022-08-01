@@ -40,6 +40,8 @@ This repository is an `index` for tutorials on my [youtube channel](https://www.
 2. If anyone requires some collateral for sharing it will be mentioned in the table. The collateral will be in a subdirectory in this repository.
 3. Not every tutorial has collaterals
 
+> This repository will be updated after it has been posted on my youtube channel
+
 N | Type | Description & Link | Collateral 
 |:--:|:--:|:--:|:--:|
 1 | ▶️ Youtube | [m0ham3dx - Tenderly 101 Tutorial](https://youtu.be/aGswUJTDQ98)
