@@ -18,3 +18,27 @@
 </p>
 
 <h1 align="center"> TOC </h1>
+
+1. [Repo Purpose](#repo-purpose)
+2. [Tutorials Index](#tutorials-index)
+
+----
+
+<p align="center">
+<a href="https://www.youtube.com/channel/UClypqHQkhsNZSD0eRmN3Piw" target="_blank">
+<img src="./img/yt.png">
+</a>
+</p>
+
+# Repo Purpose 
+
+This repository is an `index` for tutorials on my [youtube channel](https://www.youtube.com/channel/UClypqHQkhsNZSD0eRmN3Piw). 
+
+# Tutorials Index 
+
+1. Following are the `urls` to the tutorials 
+2. If anyone requires some collateral for sharing it will be mentioned in the table. The collateral will be in a subdirectory in this repository.
+
+N | Description & Link
+|:--:|:--:|
+
