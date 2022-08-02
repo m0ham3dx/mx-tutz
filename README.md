@@ -39,6 +39,7 @@ This repository is an `index` for tutorials on my [youtube channel](https://www.
 1. Following are the `urls` to the tutorials 
 2. If anyone requires some collateral for sharing it will be mentioned in the table. The collateral will be in a subdirectory in this repository.
 3. Not every tutorial has collaterals
+4. There are some video tutorials which are not on youtube but are hosted directly here on github, since they are smaller video files. 
 
 > This repository will be updated after it has been posted on my youtube channel
 
@@ -48,4 +49,5 @@ N | Type | Description & Link | Collateral
 2 | ▶️ Youtube | [m0ham3dx - Gitpod and Slither Tutorial](https://youtu.be/bgv0rVPgjzY)
 3 | ▶️ Youtube | [m0ham3dx - deth.net Ethereum Code Viewer Tutorial](https://youtu.be/d9xE8Cyj7dU)
 4 | ▶️ Youtube | [m0ham3dx - Sec3.Dev (Soteria) - Solana Automatic Audit Software Usage & Tutorial](https://youtu.be/jmVBybO6EIo)
+5 | Terminal <br> Demo | [Immunefi Bug Bounty Report Replay <br> `YOP Finance`](https://medium.com/immunefi/how-to-use-foundry-to-poc-bug-leads-part-2-b7b3807400df) 
 
