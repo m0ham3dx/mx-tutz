@@ -21,6 +21,8 @@
 
 2. This repo only discusses briefly procedures for making the demo. For a detailed understanding see the original writeup. 
 
+3. [forge](https://book.getfoundry.sh/getting-started/first-steps) commands description are in their excellent manual. This repo will not get deep into its specifics, it is highly recommended to go through the manual before attempting this replay.
+
 # Repo 
 
 https://github.com/SergeKireev/foundry-poc-tutorial-II 
@@ -78,3 +80,8 @@ forge test -vvvv --fork-url https://rpc.ankr.com/eth --fork-block-number 1481177
 
 Switches Used 
 
+1. `-vvvv` = verbosity level of traces 
+   
+2. `--fork-url` = for forking the chain 
+
+3. `--fork-block-number` = specifiying the blocknumber
