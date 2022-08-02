@@ -1,4 +1,4 @@
-<h2 align="center"> tutz = folder which contains tutorial related collaterial </h2>
+<h2 align="center"> tutz = folder which contains tutorial related collateral </h2>
 
 ----
 
