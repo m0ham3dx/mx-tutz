@@ -49,4 +49,4 @@ N | Type | Description & Link | Collateral
 2 | ▶️ Youtube | [m0ham3dx - Gitpod and Slither Tutorial](https://youtu.be/bgv0rVPgjzY)
 3 | ▶️ Youtube | [m0ham3dx - deth.net Ethereum Code Viewer Tutorial](https://youtu.be/d9xE8Cyj7dU)
 4 | ▶️ Youtube | [m0ham3dx - Sec3.Dev (Soteria) - Solana Automatic Audit Software Usage & Tutorial](https://youtu.be/jmVBybO6EIo)
-5 | Terminal <br> Demo | [Immunefi Bug Bounty Report Replay <br> `YOP Finance`](https://medium.com/immunefi/how-to-use-foundry-to-poc-bug-leads-part-2-b7b3807400df) | [`iyop.md`](./tutz/IYOP/iyop.md)
+5 | 💻 Terminal <br> Demo | [Immunefi Bug Bounty Report Replay <br> `YOP Finance`](https://youtu.be/5mGrrG162c0) | [`iyop.md`](./tutz/IYOP/iyop.md)
